@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Hello and welcome!");
         System.out.println("Second commit in Master branch");
         System.out.println("Third commit in Master branch");
+        System.out.println("Fourth commit in Master branch");
 
         for (int i = 1; i <= 5; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
