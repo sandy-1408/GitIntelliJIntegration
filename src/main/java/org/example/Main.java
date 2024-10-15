@@ -17,8 +17,8 @@ public class Main {
         System.out.println(" Edit a commit message -1");
         System.out.println("Reset Branch to specific commit - 1");
         System.out.println("Merge conflict demo -2 ");
-        
-        
+        System.out.println("Merge conflict demo -1 ");
+
 
 
         
