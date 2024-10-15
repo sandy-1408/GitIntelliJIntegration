@@ -15,6 +15,8 @@ public class Main {
         System.out.println(" Git pull Example");
         System.out.println(" Git pull Example in local repo");
         System.out.println(" Edit a commit message -1");
+        System.out.println("Reset Branch to specific commit - 1");
+        
         
 
 
