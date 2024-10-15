@@ -13,6 +13,11 @@ public class Main {
         System.out.println("Fetch Example");
         System.out.println("Fetch - Merge Example");
         System.out.println(" Git pull Example");
+        System.out.println(" Git pull Example in local repo");
+        System.out.println(" Edit a commit message -1");
+        
+
+
         
 
         for (int i = 1; i <= 5; i++) {
