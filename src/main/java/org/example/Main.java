@@ -20,14 +20,10 @@ public class Main {
         System.out.println("Merge conflict demo -1 ");
         System.out.println("First commit in User Registration Branch...");
 
-        int a=10;
-        int b=100;
-        if(a==b)
-        {
-            System.out.println("Both are equal");
-        
-        }
-
+       for(int z=10;z<20;z++)
+           {
+               System.out.println(z);
+           }
 
         
 
