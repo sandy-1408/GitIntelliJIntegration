@@ -12,6 +12,7 @@ public class Main {
         System.out.println("Fourth commit in Master branch");
         System.out.println("Fetch Example");
         System.out.println("Fetch - Merge Example");
+        System.out.println(" Git pull Example");
         
 
         for (int i = 1; i <= 5; i++) {
