@@ -28,6 +28,10 @@ public class Main {
 
         }
 
+       for(int z=10;z<20;z++)
+           {
+               System.out.println(z);
+           }
 
         
 
