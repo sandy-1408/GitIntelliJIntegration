@@ -19,9 +19,13 @@ public class Main {
         System.out.println("Merge conflict demo -2 ");
         System.out.println("Merge conflict demo -1 ");
         System.out.println("First commit in User Registration Branch...");
-        int a=2;
-        while(a<=10){
-            System.out.println(a);
+
+        int a=10;
+        int b=100;
+        if(a==b)
+        {
+            System.out.println("Both are equal");
+        
         }
 
 
