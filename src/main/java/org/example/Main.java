@@ -19,6 +19,10 @@ public class Main {
         System.out.println("Merge conflict demo -2 ");
         System.out.println("Merge conflict demo -1 ");
         System.out.println("First commit in User Registration Branch...");
+        for(int k=0;k<10;k++)
+        {
+            System.out.println(i);
+        }
 
 
 
