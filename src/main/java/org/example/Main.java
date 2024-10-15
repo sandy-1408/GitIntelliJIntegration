@@ -21,11 +21,11 @@ public class Main {
         System.out.println("First commit in User Registration Branch...");
 
         int a=10;
-        int b=100;
-        if(a==b)
+        float b=20;
+        if(a<b)
         {
-            System.out.println("Both are equal");
-        
+            System.out.println("a is less than b");
+
         }
 
 
