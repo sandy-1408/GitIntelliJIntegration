@@ -32,11 +32,7 @@ public class Main {
            {
                System.out.println(z);
            }
-        System.out.println("First commit in Feature1 branch");
-        System.out.println("Second commit in Feature1 branch");
-
-
-        System.out.println("New Commit in Master Branch...");
+        System.out.println("first commit in feature2 branch....");
 
 
         for (int i = 1; i <= 5; i++) {
