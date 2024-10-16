@@ -33,6 +33,7 @@ public class Main {
                System.out.println(z);
            }
         System.out.println("first commit in feature2 branch....");
+        System.out.println("second commit in feature2 branch....");
 
 
         for (int i = 1; i <= 5; i++) {
